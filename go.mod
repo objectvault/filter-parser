@@ -1,3 +1,3 @@
 module github.com/objectvault/filter-parser
 
-go 1.17
+go 1.15
